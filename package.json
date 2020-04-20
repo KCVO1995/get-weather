@@ -1,0 +1,15 @@
+{
+  "name": "get-weather3",
+  "version": "1.0.6",
+  "description": "weather",
+  "main": "index.js",
+  "author": "KCVO1995",
+  "license": "MIT",
+  "bin": {
+    "get-weather3": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "get-weather3": "^1.0.4"
+  }
+}
