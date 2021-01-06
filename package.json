@@ -9,7 +9,7 @@
     "get-weather3": "./index.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "get-weather3": "^1.0.4"
   }
 }
